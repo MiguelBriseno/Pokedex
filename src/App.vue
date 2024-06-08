@@ -1,5 +1,7 @@
 <template>
   <v-app>
+    <SearchBar />
+
     <v-main>
       <Pokedex />
     </v-main>

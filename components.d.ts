@@ -10,5 +10,6 @@ declare module 'vue' {
     AppFooter: typeof import('./src/components/AppFooter.vue')['default']
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     Pokedex: typeof import('./src/components/Pokedex.vue')['default']
+    SearchBar: typeof import('./src/components/SearchBar.vue')['default']
   }
 }
